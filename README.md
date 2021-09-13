@@ -1,16 +1,43 @@
-### Hi there 👋
+(![image](https://user-images.githubusercontent.com/90635927/133128826-af986bc9-1596-4960-9fe1-3ba0029f9814.png)
 
-<!--
-**Sumihikoo/Sumihikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# -Hi there, I’m Sumihikoo
+
+-__I’m interested in__
+
+
+:peacock:・ Programming
+
+
+:peacock:・ Cyber security
+
+
+:peacock:・ Designing
+
+
+-__I’m currently learning__
+
+
+:peacock:・Language C#
+
+
+:peacock:・Language Java
+
+
+:peacock:・PHP,SQLx
+
+
+-__My Hobbies__
+
+
+:peacock:・Watching Movies
+
+
+:peacock:・Designing
+
+
+:peacock:・Listening to music
+
+
+:peacock:・Reading Books and Manga
