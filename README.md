@@ -19,13 +19,13 @@
 -__I’m currently learning__
 
 
-:peacock:・Language C#
+:peacock:・Language C
 
 
-:peacock:・Language Java
+:peacock:・Java & Javascript
 
 
-:peacock:・PHP,SQLx
+:peacock:・PHP,SQL
 
 
 -__My Hobbies__
